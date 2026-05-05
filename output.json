@@ -1,0 +1,998 @@
+[
+  {
+    "input": {
+      "question": "What are the company's Scope 1 (direct) greenhouse gas emissions in metric tonnes of CO2 equivalent?",
+      "custom_id": "Commons+Scope_1_emissions_tCO2e",
+      "data_type": "Metric",
+      "company": "Apple Inc.",
+      "file_metas": [
+        {
+          "file_name": "Apple Environmental Progress Report 2022",
+          "file_url": "https://www.apple.com/environment/pdf/Apple_Environmental_Progress_Report_2022.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "55100 (2022)",
+      "source_documents": [
+        {
+          "file_name": "Apple Environmental Progress Report 2022",
+          "file_url": "https://www.apple.com/environment/pdf/Apple_Environmental_Progress_Report_2022.pdf",
+          "page_number": 43
+        }
+      ]
+    },
+    "structured_data": [
+      {
+        "unit": "tCO2e",
+        "value": 55100.0,
+        "time_period": "2022"
+      }
+    ]
+  },
+  {
+    "input": {
+      "question": "What are the company's Scope 1 (direct) greenhouse gas emissions in metric tonnes of CO2 equivalent?",
+      "custom_id": "Commons+Scope_1_emissions_tCO2e",
+      "data_type": "Metric",
+      "company": "Microsoft Corporation",
+      "file_metas": [
+        {
+          "file_name": "Microsoft 2022 Environmental Sustainability Report",
+          "file_url": "https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RW13G5m"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "13700 (2022)",
+      "source_documents": [
+        {
+          "file_name": "Microsoft 2022 Environmental Sustainability Report",
+          "file_url": "https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RW13G5m"
+        }
+      ]
+    },
+    "structured_data": [
+      {
+        "unit": "tCO2e",
+        "value": 13700.0,
+        "time_period": "2022"
+      }
+    ]
+  },
+  {
+    "input": {
+      "question": "What are the company's Scope 1 (direct) greenhouse gas emissions in metric tonnes of CO2 equivalent?",
+      "custom_id": "Commons+Scope_1_emissions_tCO2e",
+      "data_type": "Metric",
+      "company": "Alphabet Inc.",
+      "file_metas": [
+        {
+          "file_name": "Google 2022 Environmental Report",
+          "file_url": "https://sustainability.google/reports/google-2022-environmental-report.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "1140000 (2022)",
+      "source_documents": [
+        {
+          "file_name": "Google 2022 Environmental Report",
+          "file_url": "https://sustainability.google/reports/google-2022-environmental-report.pdf"
+        }
+      ]
+    },
+    "structured_data": [
+      {
+        "unit": "tCO2e",
+        "value": 1140000.0,
+        "time_period": "2022"
+      }
+    ]
+  },
+  {
+    "input": {
+      "question": "What are the company's Scope 1 (direct) greenhouse gas emissions in metric tonnes of CO2 equivalent?",
+      "custom_id": "Commons+Scope_1_emissions_tCO2e",
+      "data_type": "Metric",
+      "company": "Meta Platforms Inc.",
+      "file_metas": [
+        {
+          "file_name": "Meta 2022 Sustainability Report",
+          "file_url": "https://sustainability.fb.com/wp-content/uploads/2023/07/Meta-2022-Sustainability-Report.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "227000 (2022)",
+      "source_documents": [
+        {
+          "file_name": "Meta 2022 Sustainability Report",
+          "file_url": "https://sustainability.fb.com/wp-content/uploads/2023/07/Meta-2022-Sustainability-Report.pdf"
+        }
+      ]
+    },
+    "structured_data": [
+      {
+        "unit": "tCO2e",
+        "value": 227000.0,
+        "time_period": "2022"
+      }
+    ]
+  },
+  {
+    "input": {
+      "question": "What are the company's Scope 1 (direct) greenhouse gas emissions in metric tonnes of CO2 equivalent?",
+      "custom_id": "Commons+Scope_1_emissions_tCO2e",
+      "data_type": "Metric",
+      "company": "Shell plc",
+      "file_metas": [
+        {
+          "file_name": "Shell Sustainability Report 2022",
+          "file_url": "https://reports.shell.com/sustainability-report/2022/servicepages/downloads/files/shell-sustainability-report-2022.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "68000000 (2022)",
+      "source_documents": [
+        {
+          "file_name": "Shell Sustainability Report 2022",
+          "file_url": "https://reports.shell.com/sustainability-report/2022/servicepages/downloads/files/shell-sustainability-report-2022.pdf",
+          "page_number": 58
+        }
+      ]
+    },
+    "structured_data": [
+      {
+        "unit": "tCO2e",
+        "value": 68000000.0,
+        "time_period": "2022"
+      }
+    ]
+  },
+  {
+    "input": {
+      "question": "What are the company's Scope 1 (direct) greenhouse gas emissions in metric tonnes of CO2 equivalent?",
+      "custom_id": "Commons+Scope_1_emissions_tCO2e",
+      "data_type": "Metric",
+      "company": "BP plc",
+      "file_metas": [
+        {
+          "file_name": "BP Sustainability Report 2022",
+          "file_url": "https://www.bp.com/content/dam/bp/business-sites/en/global/corporate/pdfs/sustainability/group-reports/bp-sustainability-report-2022.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "31200000 (2022)",
+      "source_documents": [
+        {
+          "file_name": "BP Sustainability Report 2022",
+          "file_url": "https://www.bp.com/content/dam/bp/business-sites/en/global/corporate/pdfs/sustainability/group-reports/bp-sustainability-report-2022.pdf"
+        }
+      ]
+    },
+    "structured_data": [
+      {
+        "unit": "tCO2e",
+        "value": 31200000.0,
+        "time_period": "2022"
+      }
+    ]
+  },
+  {
+    "input": {
+      "question": "What are the company's Scope 1 (direct) greenhouse gas emissions in metric tonnes of CO2 equivalent?",
+      "custom_id": "Commons+Scope_1_emissions_tCO2e",
+      "data_type": "Metric",
+      "company": "ExxonMobil Corporation",
+      "file_metas": [
+        {
+          "file_name": "ExxonMobil 2022 Sustainability Report",
+          "file_url": "https://corporate.exxonmobil.com/-/media/Global/Files/sustainability-report/2022-sustainability-report.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "52000000 (2022)",
+      "source_documents": [
+        {
+          "file_name": "ExxonMobil 2022 Sustainability Report",
+          "file_url": "https://corporate.exxonmobil.com/-/media/Global/Files/sustainability-report/2022-sustainability-report.pdf"
+        }
+      ]
+    },
+    "structured_data": [
+      {
+        "unit": "tCO2e",
+        "value": 52000000.0,
+        "time_period": "2022"
+      }
+    ]
+  },
+  {
+    "input": {
+      "question": "What are the company's Scope 1 (direct) greenhouse gas emissions in metric tonnes of CO2 equivalent?",
+      "custom_id": "Commons+Scope_1_emissions_tCO2e",
+      "data_type": "Metric",
+      "company": "TotalEnergies SE",
+      "file_metas": [
+        {
+          "file_name": "TotalEnergies Climate and Energy Facts 2022",
+          "file_url": "https://totalenergies.com/system/files/documents/2023-05/TotalEnergies_Climate-and-Energy-Facts_2022.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "43000000 (2022)",
+      "source_documents": [
+        {
+          "file_name": "TotalEnergies Climate and Energy Facts 2022",
+          "file_url": "https://totalenergies.com/system/files/documents/2023-05/TotalEnergies_Climate-and-Energy-Facts_2022.pdf"
+        }
+      ]
+    },
+    "structured_data": [
+      {
+        "unit": "tCO2e",
+        "value": 43000000.0,
+        "time_period": "2022"
+      }
+    ]
+  },
+  {
+    "input": {
+      "question": "What are the company's Scope 1 (direct) greenhouse gas emissions in metric tonnes of CO2 equivalent?",
+      "custom_id": "Commons+Scope_1_emissions_tCO2e",
+      "data_type": "Metric",
+      "company": "Chevron Corporation",
+      "file_metas": [
+        {
+          "file_name": "Chevron 2022 Corporate Sustainability Report",
+          "file_url": "https://www.chevron.com/-/media/shared-media/documents/chevron-2022-corporate-sustainability-report.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "58600000 (2022)",
+      "source_documents": [
+        {
+          "file_name": "Chevron 2022 Corporate Sustainability Report",
+          "file_url": "https://www.chevron.com/-/media/shared-media/documents/chevron-2022-corporate-sustainability-report.pdf"
+        }
+      ]
+    },
+    "structured_data": [
+      {
+        "unit": "tCO2e",
+        "value": 58600000.0,
+        "time_period": "2022"
+      }
+    ]
+  },
+  {
+    "input": {
+      "question": "What are the company's Scope 1 (direct) greenhouse gas emissions in metric tonnes of CO2 equivalent?",
+      "custom_id": "Commons+Scope_1_emissions_tCO2e",
+      "data_type": "Metric",
+      "company": "NVIDIA Corporation",
+      "file_metas": [
+        {
+          "file_name": "NVIDIA FY2023 Corporate Responsibility Report",
+          "file_url": "https://images.nvidia.com/aem-dam/Solutions/documents/FY2023-NVIDIA-Corporate-Responsibility-Report.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "31500 (2023)",
+      "source_documents": [
+        {
+          "file_name": "NVIDIA FY2023 Corporate Responsibility Report",
+          "file_url": "https://images.nvidia.com/aem-dam/Solutions/documents/FY2023-NVIDIA-Corporate-Responsibility-Report.pdf"
+        }
+      ]
+    },
+    "structured_data": [
+      {
+        "unit": "tCO2e",
+        "value": 31500.0,
+        "time_period": "2023"
+      }
+    ]
+  },
+  {
+    "input": {
+      "question": "What are the company's Scope 1 (direct) greenhouse gas emissions in metric tonnes of CO2 equivalent?",
+      "custom_id": "Commons+Scope_1_emissions_tCO2e",
+      "data_type": "Metric",
+      "company": "Tesla Inc.",
+      "file_metas": [
+        {
+          "file_name": "Tesla 2022 Impact Report",
+          "file_url": "https://www.tesla.com/ns_videos/2022-tesla-impact-report.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "97000 (2022)",
+      "source_documents": [
+        {
+          "file_name": "Tesla 2022 Impact Report",
+          "file_url": "https://www.tesla.com/ns_videos/2022-tesla-impact-report.pdf",
+          "page_number": 64
+        }
+      ]
+    },
+    "structured_data": [
+      {
+        "unit": "tCO2e",
+        "value": 97000.0,
+        "time_period": "2022"
+      }
+    ]
+  },
+  {
+    "input": {
+      "question": "What are the company's Scope 2 (indirect, energy-related) greenhouse gas emissions in metric tonnes of CO2 equivalent?",
+      "custom_id": "Commons+Scope_2_emissions_tCO2e",
+      "data_type": "Metric",
+      "company": "Apple Inc.",
+      "file_metas": [
+        {
+          "file_name": "Apple Environmental Progress Report 2022",
+          "file_url": "https://www.apple.com/environment/pdf/Apple_Environmental_Progress_Report_2022.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "0 (2022)",
+      "source_documents": [
+        {
+          "file_name": "Apple Environmental Progress Report 2022",
+          "file_url": "https://www.apple.com/environment/pdf/Apple_Environmental_Progress_Report_2022.pdf",
+          "page_number": 43
+        }
+      ]
+    },
+    "structured_data": [
+      {
+        "unit": "tCO2e",
+        "value": 0.0,
+        "time_period": "2022"
+      }
+    ]
+  },
+  {
+    "input": {
+      "question": "What are the company's Scope 2 (indirect, energy-related) greenhouse gas emissions in metric tonnes of CO2 equivalent?",
+      "custom_id": "Commons+Scope_2_emissions_tCO2e",
+      "data_type": "Metric",
+      "company": "Microsoft Corporation",
+      "file_metas": [
+        {
+          "file_name": "Microsoft 2022 Environmental Sustainability Report",
+          "file_url": "https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RW13G5m"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "0 (2022)",
+      "source_documents": [
+        {
+          "file_name": "Microsoft 2022 Environmental Sustainability Report",
+          "file_url": "https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RW13G5m"
+        }
+      ]
+    },
+    "structured_data": [
+      {
+        "unit": "tCO2e",
+        "value": 0.0,
+        "time_period": "2022"
+      }
+    ]
+  },
+  {
+    "input": {
+      "question": "What are the company's Scope 2 (indirect, energy-related) greenhouse gas emissions in metric tonnes of CO2 equivalent?",
+      "custom_id": "Commons+Scope_2_emissions_tCO2e",
+      "data_type": "Metric",
+      "company": "Alphabet Inc.",
+      "file_metas": [
+        {
+          "file_name": "Google 2022 Environmental Report",
+          "file_url": "https://sustainability.google/reports/google-2022-environmental-report.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "1700000 (2022)",
+      "source_documents": [
+        {
+          "file_name": "Google 2022 Environmental Report",
+          "file_url": "https://sustainability.google/reports/google-2022-environmental-report.pdf"
+        }
+      ]
+    },
+    "structured_data": [
+      {
+        "unit": "tCO2e",
+        "value": 1700000.0,
+        "time_period": "2022"
+      }
+    ]
+  },
+  {
+    "input": {
+      "question": "What are the company's Scope 2 (indirect, energy-related) greenhouse gas emissions in metric tonnes of CO2 equivalent?",
+      "custom_id": "Commons+Scope_2_emissions_tCO2e",
+      "data_type": "Metric",
+      "company": "Meta Platforms Inc.",
+      "file_metas": [
+        {
+          "file_name": "Meta 2022 Sustainability Report",
+          "file_url": "https://sustainability.fb.com/wp-content/uploads/2023/07/Meta-2022-Sustainability-Report.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "4000 (2022)",
+      "source_documents": [
+        {
+          "file_name": "Meta 2022 Sustainability Report",
+          "file_url": "https://sustainability.fb.com/wp-content/uploads/2023/07/Meta-2022-Sustainability-Report.pdf"
+        }
+      ]
+    },
+    "structured_data": [
+      {
+        "unit": "tCO2e",
+        "value": 4000.0,
+        "time_period": "2022"
+      }
+    ]
+  },
+  {
+    "input": {
+      "question": "What are the company's Scope 2 (indirect, energy-related) greenhouse gas emissions in metric tonnes of CO2 equivalent?",
+      "custom_id": "Commons+Scope_2_emissions_tCO2e",
+      "data_type": "Metric",
+      "company": "Shell plc",
+      "file_metas": [
+        {
+          "file_name": "Shell Sustainability Report 2022",
+          "file_url": "https://reports.shell.com/sustainability-report/2022/servicepages/downloads/files/shell-sustainability-report-2022.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "3900000 (2022)",
+      "source_documents": [
+        {
+          "file_name": "Shell Sustainability Report 2022",
+          "file_url": "https://reports.shell.com/sustainability-report/2022/servicepages/downloads/files/shell-sustainability-report-2022.pdf",
+          "page_number": 58
+        }
+      ]
+    },
+    "structured_data": [
+      {
+        "unit": "tCO2e",
+        "value": 3900000.0,
+        "time_period": "2022"
+      }
+    ]
+  },
+  {
+    "input": {
+      "question": "What are the company's Scope 2 (indirect, energy-related) greenhouse gas emissions in metric tonnes of CO2 equivalent?",
+      "custom_id": "Commons+Scope_2_emissions_tCO2e",
+      "data_type": "Metric",
+      "company": "BP plc",
+      "file_metas": [
+        {
+          "file_name": "BP Sustainability Report 2022",
+          "file_url": "https://www.bp.com/content/dam/bp/business-sites/en/global/corporate/pdfs/sustainability/group-reports/bp-sustainability-report-2022.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "3800000 (2022)",
+      "source_documents": [
+        {
+          "file_name": "BP Sustainability Report 2022",
+          "file_url": "https://www.bp.com/content/dam/bp/business-sites/en/global/corporate/pdfs/sustainability/group-reports/bp-sustainability-report-2022.pdf"
+        }
+      ]
+    },
+    "structured_data": [
+      {
+        "unit": "tCO2e",
+        "value": 3800000.0,
+        "time_period": "2022"
+      }
+    ]
+  },
+  {
+    "input": {
+      "question": "What are the company's Scope 2 (indirect, energy-related) greenhouse gas emissions in metric tonnes of CO2 equivalent?",
+      "custom_id": "Commons+Scope_2_emissions_tCO2e",
+      "data_type": "Metric",
+      "company": "ExxonMobil Corporation",
+      "file_metas": [
+        {
+          "file_name": "ExxonMobil 2022 Sustainability Report",
+          "file_url": "https://corporate.exxonmobil.com/-/media/Global/Files/sustainability-report/2022-sustainability-report.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "5600000 (2022)",
+      "source_documents": [
+        {
+          "file_name": "ExxonMobil 2022 Sustainability Report",
+          "file_url": "https://corporate.exxonmobil.com/-/media/Global/Files/sustainability-report/2022-sustainability-report.pdf"
+        }
+      ]
+    },
+    "structured_data": [
+      {
+        "unit": "tCO2e",
+        "value": 5600000.0,
+        "time_period": "2022"
+      }
+    ]
+  },
+  {
+    "input": {
+      "question": "What are the company's Scope 2 (indirect, energy-related) greenhouse gas emissions in metric tonnes of CO2 equivalent?",
+      "custom_id": "Commons+Scope_2_emissions_tCO2e",
+      "data_type": "Metric",
+      "company": "TotalEnergies SE",
+      "file_metas": [
+        {
+          "file_name": "TotalEnergies Climate and Energy Facts 2022",
+          "file_url": "https://totalenergies.com/system/files/documents/2023-05/TotalEnergies_Climate-and-Energy-Facts_2022.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "4900000 (2022)",
+      "source_documents": [
+        {
+          "file_name": "TotalEnergies Climate and Energy Facts 2022",
+          "file_url": "https://totalenergies.com/system/files/documents/2023-05/TotalEnergies_Climate-and-Energy-Facts_2022.pdf"
+        }
+      ]
+    },
+    "structured_data": [
+      {
+        "unit": "tCO2e",
+        "value": 4900000.0,
+        "time_period": "2022"
+      }
+    ]
+  },
+  {
+    "input": {
+      "question": "What are the company's Scope 2 (indirect, energy-related) greenhouse gas emissions in metric tonnes of CO2 equivalent?",
+      "custom_id": "Commons+Scope_2_emissions_tCO2e",
+      "data_type": "Metric",
+      "company": "Chevron Corporation",
+      "file_metas": [
+        {
+          "file_name": "Chevron 2022 Corporate Sustainability Report",
+          "file_url": "https://www.chevron.com/-/media/shared-media/documents/chevron-2022-corporate-sustainability-report.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "5200000 (2022)",
+      "source_documents": [
+        {
+          "file_name": "Chevron 2022 Corporate Sustainability Report",
+          "file_url": "https://www.chevron.com/-/media/shared-media/documents/chevron-2022-corporate-sustainability-report.pdf"
+        }
+      ]
+    },
+    "structured_data": [
+      {
+        "unit": "tCO2e",
+        "value": 5200000.0,
+        "time_period": "2022"
+      }
+    ]
+  },
+  {
+    "input": {
+      "question": "What are the company's Scope 2 (indirect, energy-related) greenhouse gas emissions in metric tonnes of CO2 equivalent?",
+      "custom_id": "Commons+Scope_2_emissions_tCO2e",
+      "data_type": "Metric",
+      "company": "NVIDIA Corporation",
+      "file_metas": [
+        {
+          "file_name": "NVIDIA FY2023 Corporate Responsibility Report",
+          "file_url": "https://images.nvidia.com/aem-dam/Solutions/documents/FY2023-NVIDIA-Corporate-Responsibility-Report.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "245000 (2023)",
+      "source_documents": [
+        {
+          "file_name": "NVIDIA FY2023 Corporate Responsibility Report",
+          "file_url": "https://images.nvidia.com/aem-dam/Solutions/documents/FY2023-NVIDIA-Corporate-Responsibility-Report.pdf"
+        }
+      ]
+    },
+    "structured_data": [
+      {
+        "unit": "tCO2e",
+        "value": 245000.0,
+        "time_period": "2023"
+      }
+    ]
+  },
+  {
+    "input": {
+      "question": "What are the company's Scope 2 (indirect, energy-related) greenhouse gas emissions in metric tonnes of CO2 equivalent?",
+      "custom_id": "Commons+Scope_2_emissions_tCO2e",
+      "data_type": "Metric",
+      "company": "Tesla Inc.",
+      "file_metas": [
+        {
+          "file_name": "Tesla 2022 Impact Report",
+          "file_url": "https://www.tesla.com/ns_videos/2022-tesla-impact-report.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "454000 (2022)",
+      "source_documents": [
+        {
+          "file_name": "Tesla 2022 Impact Report",
+          "file_url": "https://www.tesla.com/ns_videos/2022-tesla-impact-report.pdf",
+          "page_number": 64
+        }
+      ]
+    },
+    "structured_data": [
+      {
+        "unit": "tCO2e",
+        "value": 454000.0,
+        "time_period": "2022"
+      }
+    ]
+  },
+  {
+    "input": {
+      "question": "What percentage of the company's board of directors are women?",
+      "custom_id": "Commons+Women_on_Board",
+      "data_type": "Metric",
+      "company": "Apple Inc.",
+      "file_metas": [
+        {
+          "file_name": "Apple 2022 Proxy Statement",
+          "file_url": "https://s2.q4cdn.com/470004039/files/doc_financials/2022/ar/_10-K-2022-(As-Filed).pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "40 (2022)",
+      "source_documents": [
+        {
+          "file_name": "Apple 2022 Proxy Statement",
+          "file_url": "https://s2.q4cdn.com/470004039/files/doc_financials/2022/ar/_10-K-2022-(As-Filed).pdf"
+        }
+      ]
+    },
+    "structured_data": [
+      {
+        "unit": "%",
+        "value": 40.0,
+        "time_period": "2022"
+      }
+    ]
+  },
+  {
+    "input": {
+      "question": "What percentage of the company's board of directors are women?",
+      "custom_id": "Commons+Women_on_Board",
+      "data_type": "Metric",
+      "company": "Microsoft Corporation",
+      "file_metas": [
+        {
+          "file_name": "Microsoft 2022 Proxy Statement",
+          "file_url": "https://www.microsoft.com/investor/reports/ar22/index.html"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "33 (2022)",
+      "source_documents": [
+        {
+          "file_name": "Microsoft 2022 Proxy Statement",
+          "file_url": "https://www.microsoft.com/investor/reports/ar22/index.html"
+        }
+      ]
+    },
+    "structured_data": [
+      {
+        "unit": "%",
+        "value": 33.0,
+        "time_period": "2022"
+      }
+    ]
+  },
+  {
+    "input": {
+      "question": "What percentage of the company's board of directors are women?",
+      "custom_id": "Commons+Women_on_Board",
+      "data_type": "Metric",
+      "company": "Alphabet Inc.",
+      "file_metas": [
+        {
+          "file_name": "Alphabet 2022 DEI Annual Report",
+          "file_url": "https://about.google/belonging/diversity-annual-report/2022/"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "33 (2022)",
+      "source_documents": [
+        {
+          "file_name": "Alphabet 2022 DEI Annual Report",
+          "file_url": "https://about.google/belonging/diversity-annual-report/2022/"
+        }
+      ]
+    },
+    "structured_data": [
+      {
+        "unit": "%",
+        "value": 33.0,
+        "time_period": "2022"
+      }
+    ]
+  },
+  {
+    "input": {
+      "question": "What percentage of the company's board of directors are women?",
+      "custom_id": "Commons+Women_on_Board",
+      "data_type": "Metric",
+      "company": "Meta Platforms Inc.",
+      "file_metas": [
+        {
+          "file_name": "Meta 2022 Sustainability Report",
+          "file_url": "https://sustainability.fb.com/wp-content/uploads/2023/07/Meta-2022-Sustainability-Report.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "38 (2022)",
+      "source_documents": [
+        {
+          "file_name": "Meta 2022 Sustainability Report",
+          "file_url": "https://sustainability.fb.com/wp-content/uploads/2023/07/Meta-2022-Sustainability-Report.pdf"
+        }
+      ]
+    },
+    "structured_data": [
+      {
+        "unit": "%",
+        "value": 38.0,
+        "time_period": "2022"
+      }
+    ]
+  },
+  {
+    "input": {
+      "question": "What percentage of the company's board of directors are women?",
+      "custom_id": "Commons+Women_on_Board",
+      "data_type": "Metric",
+      "company": "Shell plc",
+      "file_metas": [
+        {
+          "file_name": "Shell Annual Report 2022",
+          "file_url": "https://reports.shell.com/annual-report/2022/servicepages/downloads/files/shell-annual-report-2022.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "45 (2022)",
+      "source_documents": [
+        {
+          "file_name": "Shell Annual Report 2022",
+          "file_url": "https://reports.shell.com/annual-report/2022/servicepages/downloads/files/shell-annual-report-2022.pdf"
+        }
+      ]
+    },
+    "structured_data": [
+      {
+        "unit": "%",
+        "value": 45.0,
+        "time_period": "2022"
+      }
+    ]
+  },
+  {
+    "input": {
+      "question": "What percentage of the company's board of directors are women?",
+      "custom_id": "Commons+Women_on_Board",
+      "data_type": "Metric",
+      "company": "BP plc",
+      "file_metas": [
+        {
+          "file_name": "BP Annual Report 2022",
+          "file_url": "https://www.bp.com/content/dam/bp/business-sites/en/global/corporate/pdfs/investors/bp-annual-report-and-form-20f-2022.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "36 (2022)",
+      "source_documents": [
+        {
+          "file_name": "BP Annual Report 2022",
+          "file_url": "https://www.bp.com/content/dam/bp/business-sites/en/global/corporate/pdfs/investors/bp-annual-report-and-form-20f-2022.pdf"
+        }
+      ]
+    },
+    "structured_data": [
+      {
+        "unit": "%",
+        "value": 36.0,
+        "time_period": "2022"
+      }
+    ]
+  },
+  {
+    "input": {
+      "question": "What percentage of the company's board of directors are women?",
+      "custom_id": "Commons+Women_on_Board",
+      "data_type": "Metric",
+      "company": "ExxonMobil Corporation",
+      "file_metas": [
+        {
+          "file_name": "ExxonMobil 2022 Proxy Statement",
+          "file_url": "https://corporate.exxonmobil.com/-/media/Global/Files/investor-relations/annual-meeting/2022-proxy-statement.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "31 (2022)",
+      "source_documents": [
+        {
+          "file_name": "ExxonMobil 2022 Proxy Statement",
+          "file_url": "https://corporate.exxonmobil.com/-/media/Global/Files/investor-relations/annual-meeting/2022-proxy-statement.pdf"
+        }
+      ]
+    },
+    "structured_data": [
+      {
+        "unit": "%",
+        "value": 31.0,
+        "time_period": "2022"
+      }
+    ]
+  },
+  {
+    "input": {
+      "question": "What percentage of the company's board of directors are women?",
+      "custom_id": "Commons+Women_on_Board",
+      "data_type": "Metric",
+      "company": "TotalEnergies SE",
+      "file_metas": [
+        {
+          "file_name": "TotalEnergies 2022 Universal Registration Document",
+          "file_url": "https://totalenergies.com/system/files/documents/2023-03/TotalEnergies_URD_2022.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "42 (2022)",
+      "source_documents": [
+        {
+          "file_name": "TotalEnergies 2022 Universal Registration Document",
+          "file_url": "https://totalenergies.com/system/files/documents/2023-03/TotalEnergies_URD_2022.pdf"
+        }
+      ]
+    },
+    "structured_data": [
+      {
+        "unit": "%",
+        "value": 42.0,
+        "time_period": "2022"
+      }
+    ]
+  },
+  {
+    "input": {
+      "question": "What percentage of the company's board of directors are women?",
+      "custom_id": "Commons+Women_on_Board",
+      "data_type": "Metric",
+      "company": "Chevron Corporation",
+      "file_metas": [
+        {
+          "file_name": "Chevron 2022 Corporate Sustainability Report",
+          "file_url": "https://www.chevron.com/-/media/shared-media/documents/chevron-2022-corporate-sustainability-report.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "27 (2022)",
+      "source_documents": [
+        {
+          "file_name": "Chevron 2022 Corporate Sustainability Report",
+          "file_url": "https://www.chevron.com/-/media/shared-media/documents/chevron-2022-corporate-sustainability-report.pdf"
+        }
+      ]
+    },
+    "structured_data": [
+      {
+        "unit": "%",
+        "value": 27.0,
+        "time_period": "2022"
+      }
+    ]
+  },
+  {
+    "input": {
+      "question": "What percentage of the company's board of directors are women?",
+      "custom_id": "Commons+Women_on_Board",
+      "data_type": "Metric",
+      "company": "NVIDIA Corporation",
+      "file_metas": [
+        {
+          "file_name": "NVIDIA FY2023 Corporate Responsibility Report",
+          "file_url": "https://images.nvidia.com/aem-dam/Solutions/documents/FY2023-NVIDIA-Corporate-Responsibility-Report.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "25 (2023)",
+      "source_documents": [
+        {
+          "file_name": "NVIDIA FY2023 Corporate Responsibility Report",
+          "file_url": "https://images.nvidia.com/aem-dam/Solutions/documents/FY2023-NVIDIA-Corporate-Responsibility-Report.pdf"
+        }
+      ]
+    },
+    "structured_data": [
+      {
+        "unit": "%",
+        "value": 25.0,
+        "time_period": "2023"
+      }
+    ]
+  },
+  {
+    "input": {
+      "question": "What percentage of the company's board of directors are women?",
+      "custom_id": "Commons+Women_on_Board",
+      "data_type": "Metric",
+      "company": "Tesla Inc.",
+      "file_metas": [
+        {
+          "file_name": "Tesla 2022 Impact Report",
+          "file_url": "https://www.tesla.com/ns_videos/2022-tesla-impact-report.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "29 (2022)",
+      "source_documents": [
+        {
+          "file_name": "Tesla 2022 Impact Report",
+          "file_url": "https://www.tesla.com/ns_videos/2022-tesla-impact-report.pdf"
+        }
+      ]
+    },
+    "structured_data": [
+      {
+        "unit": "%",
+        "value": 29.0,
+        "time_period": "2022"
+      }
+    ]
+  }
+]
