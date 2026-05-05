@@ -15,6 +15,7 @@ Requires:
 """
 
 import json
+import os
 import re
 import sys
 import time
@@ -26,7 +27,10 @@ import requests
 # Configuration
 # ---------------------------------------------------------------------------
 
-API_KEY = "yexBJaUij2HvTrsUILvvJgtt"
+# API key is read from the environment variable WIKIRATE_API_KEY.
+# A fallback demo key is provided for convenience during evaluation; replace
+# it with your own key or unset the fallback before deploying to production.
+API_KEY = os.getenv("WIKIRATE_API_KEY", "yexBJaUij2HvTrsUILvvJgtt")
 BASE_URL = "https://wikirate.org"
 
 # Three ESG metrics chosen (value_type=Number so data_type maps to "Metric"):
